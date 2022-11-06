@@ -14,8 +14,8 @@
 
 ## Requirements
 
-- Lastest LSPosed
-- Lastest official version (if still under maintenance)
+- Latest LSPosed
+- Latest official version (if still under maintenance)
 
 ## Misc
 
